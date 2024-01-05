@@ -37,7 +37,7 @@ This is a simple Python application built using Tkinter and the Unsplash API to 
     ```
     - And create Your App 
     - Copy Access Key and 
-    - Paste it in Main.py at line 27
+    - Obtain an Access Key from Unsplash Developers and paste it in Main.py at line 27.
 
 4. Run the application:
 
